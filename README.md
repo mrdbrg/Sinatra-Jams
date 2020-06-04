@@ -29,7 +29,7 @@ After a little celebration, your manager comes up to you and asks if you can imp
   * A nice to have feature: On the artist's show page, have a link that will take the user to that artist's edit page.
 
 
-* A delete functionality that will be able to delete an artist from the database. This can be just a button on the artist's show page. When the button is clicked, the shown artist should be deleted and the webpage should be redirected to the index page of all the artists.
+* A delete functionality that will be able to delete an artist from the database. This can be just a button on the artist's show page. When the button is clicked, the shown artist should be deleted and the rake bpage should be redirected to the index page of all the artists.
 
 Save, commit and push your code! If you have met all these deliverables, you have accomplished CRUD for the `Artist` model, which is not an easy feat. Celebrate a little! 🎉
 
